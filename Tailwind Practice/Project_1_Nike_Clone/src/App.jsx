@@ -1,6 +1,7 @@
 import {
   CustomerReviews,
   Hero,
+  Button,
   Subscribe,
   Nav,
   SpecialOffers,
@@ -29,6 +30,7 @@ function App() {
         </section>
         <section className="padding">
           <SpecialOffers />
+          
         </section>
         <section className="padding bg-pale-blue">
           <CustomerReviews />

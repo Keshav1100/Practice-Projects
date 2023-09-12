@@ -7,10 +7,12 @@ import PopularProducts from "../sections/PopularProducts";
 import Services from "../sections/Services";
 import SuperQuality from "../sections/SuperQuality";
 import Footer from "./Footer";
+import Button from "./Button";
 
 export{
   CustomerReviews,
   Hero,
+  Button,
   Subscribe,
   Nav,
   SpecialOffers,
